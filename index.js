@@ -5,4 +5,4 @@ function scuberGreetingForFeet(someValue) {
 
 function ternaryCheckCity(arg){}
 
-function swi
+function switchOnCharmFromTip(arg){}
