@@ -2,3 +2,7 @@
 function scuberGreetingForFeet(someValue) {
   
 }
+
+function ternaryCheckCity(arg){}
+
+function swi
